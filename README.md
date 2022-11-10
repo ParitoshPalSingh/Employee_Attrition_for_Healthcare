@@ -14,41 +14,74 @@ This dataset contains employee and company data useful for supervised ML and ana
 About the Dataset Features and values :- 
 
 EmployeeID                  : This column contains the Unique Employee ID for all the employees
-Age                         : This column contains the age of the employees
-Attrition (Target)          : Binary output suggesting whether an employee left or not. This column is also unbalanced with majority class being no and minority being yes.
-BusinessTravel              : This column classifies the amount of travel the employees do i.e., rarely, frequently or no travel.
-DailyRate                   : The salary the employees earn per day
-Department                  : Type of department the employees work under like Maternity, cardiology, neurology
-DistanceFromHome            : How far they live from the office
-Education                   : This column gives the level of education each employee has achieved
-EducationField              : This column consists of type of Education Field like, Life Sciences, Medical, Marketing, etc.
-EmployeeCount               : This column tells about the employee count
-EnvironmentSatisfaction     : This gives the level of environment satisfaction for the employees
-Gender                      : This column gives the gender of the employee Male or Female
-HourlyRate                  : This column gives the hourly earnings by the people
-JobInvolvement              : This column gives the level of involvement in job
-JobLevel                    : This column represents the level of job for each of the employees
-JobRole                     : This column gives the job role like Nurse, Admin, etc for all the employees
-JobSatisfaction             : This gives the level of job satisfaction as rated by the employees
-MaritalStatus               : This gives the martial status of people if they are married, single or divorced
-MonthlyIncome               : This column gives the monthly earning income by the employees
-MonthlyRate                 : This column gives the monthly rate that the employees earn
-NumCompaniesWorked          : This column gives information about how many different companies did the employees worked for
-Over18                      : Binary output suggesting if employees are above 18 years old or not
-OverTime                    : Binary output suggesting if the employee has done overtime or not
-PercentSalaryHike           : This column gives the total salary hike in percentage given to each of the employees
-PerformanceRating           : Gives the performance rating for the employees
-RelationshipSatisfaction    : Level of relationship satisfaction as rated by the employees
-StandardHours               : The number of standard hours each individual employee is working
-Shift                       : Number of shifts the employee undertake
-TotalWorkingYears           : Number of years the employees have been working in total
-TrainingTimesLastYear       : The amount of times each employee underwent training
-WorkLifeBalance             : Ratings for work life balance as given by the employees
-YearsAtCompany              : Number of years the employees have been working at the company
-YearsInCurrentRole          : Number of years the employees have been working in their current role/position
-YearsSinceLastPromotion     : Number of years since their last promotion
-YearsWithCurrManager        : Number of years the employees have been working with their current manager 
 
+Age                         : This column contains the age of the employees
+
+Attrition (Target)          : Binary output suggesting whether an employee left or not. This column is also unbalanced with majority class being no and minority being yes.
+
+BusinessTravel              : This column classifies the amount of travel the employees do i.e., rarely, frequently or no travel.
+
+DailyRate                   : The salary the employees earn per day
+
+Department                  : Type of department the employees work under like Maternity, cardiology, neurology
+
+DistanceFromHome            : How far they live from the office
+
+Education                   : This column gives the level of education each employee has achieved
+
+EducationField              : This column consists of type of Education Field like, Life Sciences, Medical, Marketing, etc.
+
+EmployeeCount               : This column tells about the employee count
+
+EnvironmentSatisfaction     : This gives the level of environment satisfaction for the employees
+
+Gender                      : This column gives the gender of the employee Male or Female
+
+HourlyRate                  : This column gives the hourly earnings by the people
+
+JobInvolvement              : This column gives the level of involvement in job
+
+JobLevel                    : This column represents the level of job for each of the employees
+
+JobRole                     : This column gives the job role like Nurse, Admin, etc for all the employees
+
+JobSatisfaction             : This gives the level of job satisfaction as rated by the employees
+
+MaritalStatus               : This gives the martial status of people if they are married, single or divorced
+
+MonthlyIncome               : This column gives the monthly earning income by the employees
+
+MonthlyRate                 : This column gives the monthly rate that the employees earn
+
+NumCompaniesWorked          : This column gives information about how many different companies did the employees worked for
+
+Over18                      : Binary output suggesting if employees are above 18 years old or not
+
+OverTime                    : Binary output suggesting if the employee has done overtime or not
+
+PercentSalaryHike           : This column gives the total salary hike in percentage given to each of the employees
+
+PerformanceRating           : Gives the performance rating for the employees
+
+RelationshipSatisfaction    : Level of relationship satisfaction as rated by the employees
+
+StandardHours               : The number of standard hours each individual employee is working
+
+Shift                       : Number of shifts the employee undertake
+
+TotalWorkingYears           : Number of years the employees have been working in total
+
+TrainingTimesLastYear       : The amount of times each employee underwent training
+
+WorkLifeBalance             : Ratings for work life balance as given by the employees
+
+YearsAtCompany              : Number of years the employees have been working at the company
+
+YearsInCurrentRole          : Number of years the employees have been working in their current role/position
+
+YearsSinceLastPromotion     : Number of years since their last promotion
+
+YearsWithCurrManager        : Number of years the employees have been working with their current manager 
 
 The Attrition dataset for healthcare can be found here!
 
